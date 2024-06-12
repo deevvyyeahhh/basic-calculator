@@ -1,0 +1,24 @@
+body {
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+span {
+    border-bottom: 2px solid #303030;
+    padding: 2px;
+}
+
+button {
+    margin: 20px 0;
+    padding: 4px 10px;
+    font-weight: medium;
+    color: yellow;
+    background: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
